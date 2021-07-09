@@ -1,10 +1,16 @@
-- 👋 Hi, I’m @KamillaStreb
-- 👀 I’m interested in nothing
-- 🌱 I’m currently learning nothing
-- 💞️ I’m looking to collaborate on idk
-- 📫 How to reach me you can't reach me
+# **Oi, meu nome é Kamilla!**
+## *Este é o meu perfil:*
+![hehe](https://1.bp.blogspot.com/-Ly-b7pTnTx4/YGQDIzFyDoI/AAAAAAAACTU/XrHx1h09byoalEq2Bt29l-tem-yaCOgawCLcBGAsYHQ/s1080/pixicaps_20210331_31.png)
 
-<!---
-KamillaStreb/KamillaStreb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Tenho 18 anos, nasci dia 22/07/2003 e meu MBTI é INFP.**
+Atualmente sou estudante do CTISM(Colégio Técnico Industrial de Santa Maria) do curso Informática para Internet!
+
+# **Gosto de muitas coisas, entre elas se encontram:**
+-**Jogar!** Jogo Genshin Impact, Valorant, League of Legends(infelizmente), GTA, CS, Apex, Minecraft, entre outros.
+-**Ver diferentes tipos de programas como anime**(da pra ver pelo que escolhi de gif), **séries**(de ficção e fantasia, principalmente de apocalipse :p), **filmes**(gosto de sagas como Senhor dos Anéis), **doramas**(coreanos),...
+-**Música**. Escuto de tudo desde que não seja sertanejo e seus derivados. Meus estilos favoritos são R&B e KPop(não me leve a mal, por favor, eu sou gente!!!)
+-**Gosto muito de viajar**. Especialmente para a praia.
+-**Do meu irmão e da minha mãe!!**
+-**Dos meus amigos.**
+-**Gosto também da maioria das comidas que têm massa.**
+-**Gosto muito dos animais.** Muito mesmo!!
