@@ -9,7 +9,7 @@
 </div>
 
 ## *Tenho 21 anos, nasci dia 22/07/2003 e meu MBTI é INFP.*
-**Atualmente sou estudante do CTISM(Colégio Técnico Industrial de Santa Maria) do curso Informática para Internet!**
+**Atualmente sou estudante de Engenharia de Telecomunicações pela UFSM(Universidade Federal de Santa Maria). Sou Técnica em Informática para Internet pelo CTISM(Colégio Técnico Industrial de Santa Maria)!**
 
 <img align="center" alt="segundogif" height="400" style="border-radius:50px;" src="https://i.pinimg.com/originals/95/c3/00/95c300e53b7ae84ceead5a83bf310aa1.gif">
 
