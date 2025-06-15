@@ -8,13 +8,13 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=KamillaStreb&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
 
-## *Tenho 18 anos, nasci dia 22/07/2003 e meu MBTI é INFP.*
+## *Tenho 21 anos, nasci dia 22/07/2003 e meu MBTI é INFP.*
 **Atualmente sou estudante do CTISM(Colégio Técnico Industrial de Santa Maria) do curso Informática para Internet!**
 
 <img align="center" alt="segundogif" height="400" style="border-radius:50px;" src="https://i.pinimg.com/originals/95/c3/00/95c300e53b7ae84ceead5a83bf310aa1.gif">
 
 # **Gosto de muitas coisas, entre elas se encontram:**
-- **Jogar!** Jogo Genshin Impact, Valorant, League of Legends(infelizmente), GTA, CS, Apex, Minecraft, entre outros. Esportes também, especialmente vôlei.
+- **Jogar!** Jogo Infinity Nikki, Valorant, TFT, GTA, CS, Apex, Minecraft, entre outros. Esportes também, especialmente vôlei.
 - **Ver diferentes tipos de programas como: anime**(da pra ver pelo que escolhi de gif), **séries**(de ficção e fantasia, principalmente de apocalipse :p), **filmes**(gosto de sagas como Senhor dos Anéis), **doramas**(coreanos),...
 - **Música**. Escuto de tudo desde que não seja sertanejo e seus derivados. Meus estilos favoritos são R&B e KPop(não me leve a mal, por favor, eu sou gente!!!)
 - **Gosto muito de viajar**. Especialmente para a praia.
