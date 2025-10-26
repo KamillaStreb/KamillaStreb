@@ -8,7 +8,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=KamillaStreb&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
 
-## *Tenho 21 anos, nasci dia 22/07/2003 e meu MBTI é INFJ.*
+## *Tenho 22 anos, nasci dia 22/07/2003 e meu MBTI é INFJ.*
 **Atualmente sou estudante de Engenharia de Telecomunicações pela UFSM(Universidade Federal de Santa Maria). Sou Técnica em Informática para Internet pelo CTISM(Colégio Técnico Industrial de Santa Maria)!**
 
 <img align="center" alt="segundogif" height="400" style="border-radius:50px;" src="https://i.pinimg.com/originals/95/c3/00/95c300e53b7ae84ceead5a83bf310aa1.gif">
